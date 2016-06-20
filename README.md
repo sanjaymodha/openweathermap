@@ -2,7 +2,7 @@
 
 Please follow the below steps to run this web app:
 
-1. Add the following jars files in your tomcat server lib folder
+1. Add the following jars files in your tomcat server lib folder available in openweathermap/lib_files/
 
 - json-20090211.jar
 - owm-japis-2.5.0.3.jar
